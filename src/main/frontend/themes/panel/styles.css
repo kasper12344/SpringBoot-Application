@@ -1,0 +1,9 @@
+@import url('./main-layout.css');
+@import url('./views/forside-view.css');
+@import url('./views/sider-view.css');
+@import url('./views/brugere-view.css');
+@import url('./views/database-view.css');
+    [theme~="dark"] {
+      --lumo-primary-text-color: rgb(240, 126, 234);
+
+    }
